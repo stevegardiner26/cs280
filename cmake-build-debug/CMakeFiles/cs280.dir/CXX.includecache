@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stevegardiner/Dev/cs280/main.cpp
+iostream
+-
+projects/hello_world.cpp
+/Users/stevegardiner/Dev/cs280/projects/hello_world.cpp
+
+/Users/stevegardiner/Dev/cs280/projects/hello_world.cpp
+iostream
+-
+
