@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include "Projects/hello_world.cpp"
+#include "projects/hello_world.cpp"
 
 int main() {
     // cout << "Hello, World!" << endl;
