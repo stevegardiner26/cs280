@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
+/Users/stevegardiner/Dev/cs280/Projects/hello_world.cpp
+iostream
+-
+
 /Users/stevegardiner/Dev/cs280/main.cpp
 iostream
 -
+Projects/hello_world.cpp
+/Users/stevegardiner/Dev/cs280/Projects/hello_world.cpp
 
