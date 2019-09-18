@@ -15,4 +15,5 @@ to execute by commenting the function calls out in main.cpp.
 
 1. `hello_world.cpp`
    1. This is a basic hello world program. Simple enough.
-1. 
+1. Recitation 2
+   1. Read integers and print the highest one or that none exist

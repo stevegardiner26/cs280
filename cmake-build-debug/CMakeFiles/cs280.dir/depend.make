@@ -3,4 +3,5 @@
 
 CMakeFiles/cs280.dir/main.cpp.o: ../main.cpp
 CMakeFiles/cs280.dir/main.cpp.o: ../projects/hello_world.cpp
+CMakeFiles/cs280.dir/main.cpp.o: ../projects/recitation2.cpp
 
