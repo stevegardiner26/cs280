@@ -17,3 +17,9 @@ to execute by commenting the function calls out in main.cpp.
    1. This is a basic hello world program. Simple enough.
 1. Recitation 2
    1. Read integers and print the highest one or that none exist
+1. `assignment_one.cpp`
+   1. The first assignment is a program which has options for 4 commands.
+       * perform rot13 substitution.
+       * generate a random caesar cipher dictionary
+       * encrypt using the caesar cipher
+       * decrypt using the caesar cipher
