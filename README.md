@@ -11,6 +11,8 @@ But for use in this repo each projects main function is usually named after the 
 function is then called in the main.cpp to simulate an execution and I toggle which programs I want
 to execute by commenting the function calls out in main.cpp.
 
+(Did not include the cmake debug files because those can be generated on build of the users environment)
+
 ### Project Listing
 
 1. Recitation 1 `hello_world.cpp`
