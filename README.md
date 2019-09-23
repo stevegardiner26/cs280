@@ -13,10 +13,12 @@ to execute by commenting the function calls out in main.cpp.
 
 ### Project Listing
 
-1. `hello_world.cpp`
+1. Recitation 1 `hello_world.cpp`
    1. This is a basic hello world program. Simple enough.
-1. Recitation 2
+1. Recitation 2 `recitation2.cpp`
    1. Read integers and print the highest one or that none exist
+1. Recitation 3 `recitation3.cpp`
+   1. Write a C++ program that generates a sequence of 26 random letters, without duplication, one letter per output line.    
 1. `assignment_one.cpp`
    1. The first assignment is a program which has options for 4 commands.
        * perform rot13 substitution.
